@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_luna">La luna es un planeta</string>
+    <string name="question_africa">África es el continente más grande</string>
+    <string name="question_fisico">Alberth Einstein era fisico</string>
+    <string name="True_Button">Verdadero</string>
+    <string name="False_Button">Falso</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+    <string name="correct_toast">¡Correcto!</string>
+    <string name="incorrect_toast">¡Inrrecto!</string>
+    <string name="textoPregunta">Question</string>
+    <string name="pregunta_cambio_carrera">Puede solicitar cambio de carrera sin hacer examen</string>
+
+</resources>
